@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...Still Thinking
 
 <div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<img src="https://media.giphy.com/media/DuWNPF952JNyE/giphy.gif" width="400px" />
 <br>
 
 # Hello, world! 👋
