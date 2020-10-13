@@ -1,4 +1,4 @@
-
+[![Profile](https://res.cloudinary.com/dygfr5kt4/image/upload/v1596168085/eatsleep_wfxvbo.png)](https://www.instagram.com/y_b_das/)
 - 🌱 I’m currently learning ...Flutter
 - 👯 I’m looking to collaborate on ...Flutter
 - 🔭 Areas of Interest ... Web-Development, Machine Learning
@@ -14,7 +14,7 @@
 
 # Hello, world! 👋
 <h2> I'm Yash Bardhan Das</h2></div>
-[![Profile](https://res.cloudinary.com/dygfr5kt4/image/upload/v1596168085/eatsleep_wfxvbo.png)](https://www.instagram.com/y_b_das/)
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](http://www.linkedin.cn/in/yash-das-784b3b1b4/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100008539784892)
