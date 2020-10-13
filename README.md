@@ -12,7 +12,6 @@
 <img src="https://media.giphy.com/media/DuWNPF952JNyE/giphy.gif" width="400px" />
 <br>
 
-# Hello, world! 👋
 <h2> I'm Yash Bardhan Das</h2></div>
 
 
