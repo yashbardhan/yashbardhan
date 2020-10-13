@@ -1,4 +1,4 @@
-```
+
 - 🌱 I’m currently learning ...Flutter
 - 👯 I’m looking to collaborate on ...Flutter
 - 🔭 Areas of Interest ... Web-Development, Machine Learning
@@ -38,6 +38,3 @@
 
 </div>
 <br>
-
-
-```
